@@ -1,3 +1,3 @@
 # CI_test
 
-push test
+push test 1
